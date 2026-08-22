@@ -82,6 +82,8 @@ class BinarySearchTree {
   }
 }
 
+export default BinarySearchTree;
+
 const bst = new BinarySearchTree();
 bst.insert(5);
 bst.insert(3);

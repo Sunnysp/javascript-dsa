@@ -71,6 +71,8 @@ class RBinarySearchTree {
   }
 }
 
+export default RBinarySearchTree;
+
 const rbst = new RBinarySearchTree();
 rbst.insert(2);
 rbst.insert(1);
